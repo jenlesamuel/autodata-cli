@@ -1,5 +1,5 @@
 [package]
-name = "manufacturers"
+name = "autodata-cli"
 version = "0.1.0"
 edition = "2021"
 
