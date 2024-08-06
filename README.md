@@ -32,7 +32,7 @@ To fetch the complete list of car manufacturers:
 ```
 
 #### Filtering
-To filter the list of car manufacturers by a search term (e.g., "Toyota"):
+To filter the list of car manufacturers by a search term (e.g., "BMW"):
 ```shell
 ./autodata-cli BMW
 ```
