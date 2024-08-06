@@ -9,7 +9,7 @@ AUTODATA CLI is a command-line interface (CLI) tool built in Rust for fetching a
 ## Installation
 #### Clone the repository
 ```shell
-git clone https://github.com/yourusername/autodata-cli.git
+git clone https://github.com/jenlesamuel/autodata-cli
 cd autodata-cli
 ```
 
